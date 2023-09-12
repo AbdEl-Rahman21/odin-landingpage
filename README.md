@@ -1,5 +1,11 @@
-# odin-landingpage
+# Landing Page
 
-creating my first webpage
+The project for the [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) CSS Foundations course.
 
-testing my knowledge of css
+## Description
+
+A simple web page.
+
+### Visit
+
+[Visit here](https://abdel-rahman21.github.io/odin-landingpage/)
